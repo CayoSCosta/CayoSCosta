@@ -15,8 +15,7 @@ Este repositório é o meu portfólio de projetos pessoais. Aqui você encontrar
 - PowerShell
 
 📚 **Estudando**:
-- Node.js
-- React
+- Angular
 - Python
 
 📫 **Contato**:
